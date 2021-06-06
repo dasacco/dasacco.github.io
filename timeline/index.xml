@@ -14,11 +14,11 @@
             <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
             
             <guid>http://dasacco.github.io/timeline/week-one/</guid>
-            <description>Abstract This is the abstract. alt text
+            <description>Abstract This is the abstract.
 Add link to code on github? LINK</description>
             <content type="html"><![CDATA[<h2 id="abstract">Abstract</h2>
-<p>This is the abstract.
-<a href="https://github.com/dasacco/dasacco.github.io/blob/master/images/week-one.png">alt text</a></p>
+<p>This is the abstract.</p>
+<p><img src="https://github.com/dasacco/dasacco.github.io/blob/master/images/week-one.png" alt=""></p>
 <p><img src="https://github.com/dasacco/dasacco.github.io/blob/master/images/week-one.png" alt="alt text"></p>
 <p>Add link to code on github?
 <a href="https://github.com/gohugoio/hugo/">LINK</a></p>
