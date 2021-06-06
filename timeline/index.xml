@@ -1,0 +1,28 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Timelines on sour marmalade</title>
+        <link>http://dasacco.github.io/timeline/</link>
+        <description>Recent content in Timelines on sour marmalade</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Mon, 24 May 2021 00:00:00 +0000</lastBuildDate>
+        <atom:link href="http://dasacco.github.io/timeline/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Week One</title>
+            <link>http://dasacco.github.io/timeline/week-one/</link>
+            <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
+            
+            <guid>http://dasacco.github.io/timeline/week-one/</guid>
+            <description>Abstract This is the abstract.
+Add link to code on github? LINK</description>
+            <content type="html"><![CDATA[<h2 id="abstract">Abstract</h2>
+<p>This is the abstract.</p>
+<p><img src="https://github.com/dasacco/dasacco.github.io/blob/master/images/week-one.png" alt="alt text"></p>
+<p>Add link to code on github?
+<a href="https://github.com/gohugoio/hugo/">LINK</a></p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
