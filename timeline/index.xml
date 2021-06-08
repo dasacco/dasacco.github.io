@@ -5,22 +5,17 @@
         <description>Recent content in Timelines on sour marmalade</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Mon, 24 May 2021 00:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Sat, 24 Apr 2021 00:00:00 +0000</lastBuildDate>
         <atom:link href="http://dasacco.github.io/timeline/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
             <title>Week One</title>
             <link>http://dasacco.github.io/timeline/week-one/</link>
-            <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
+            <pubDate>Sat, 24 Apr 2021 00:00:00 +0000</pubDate>
             
             <guid>http://dasacco.github.io/timeline/week-one/</guid>
-            <description>Abstract This is the abstract.
-Add link to code on github? LINK</description>
-            <content type="html"><![CDATA[<h2 id="abstract">Abstract</h2>
-<p>This is the abstract.</p>
-<p><img src="https://github.com/dasacco/dasacco.github.io/blob/master/images/week-one.jpg" alt=""></p>
-<p>Add link to code on github?
-<a href="https://github.com/gohugoio/hugo/">LINK</a></p>
+            <description></description>
+            <content type="html"><![CDATA[<p><img src="https://raw.githubusercontent.com/dasacco/dasacco.github.io/master/images/week-one.png" alt=""></p>
 ]]></content>
         </item>
         
