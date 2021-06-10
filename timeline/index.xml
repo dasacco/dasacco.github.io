@@ -5,17 +5,18 @@
         <description>Recent content in Timelines on sour marmalade</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
+        <lastBuildDate>Sat, 24 Apr 2021 00:00:00 +0000</lastBuildDate>
         <atom:link href="http://dasacco.github.io/timeline/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
             <title>week one</title>
             <link>http://dasacco.github.io/timeline/week-one/</link>
-            <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+            <pubDate>Sat, 24 Apr 2021 00:00:00 +0000</pubDate>
             
             <guid>http://dasacco.github.io/timeline/week-one/</guid>
-            <description>Source: iNaturalist</description>
+            <description>Source: iNaturalist h</description>
             <content type="html"><![CDATA[<p><img src="https://raw.githubusercontent.com/dasacco/dasacco.github.io/master/images/week-one.png" alt=""></p>
-<p>Source: <a href="https://www.inaturalist.org/observations/export">iNaturalist</a></p>
+<p>Source: <a href="https://www.inaturalist.org/observations/export">iNaturalist</a> h</p>
 ]]></content>
         </item>
         
